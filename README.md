@@ -1,4 +1,4 @@
-# repo-rgc
+# produccion academica ricardo 
 Mi primer repositorio de ejemplo
 
 ## Introducción
